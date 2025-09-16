@@ -17,7 +17,7 @@ Logo">
  </div>
  <div class="banner">
  <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" aria-hidden="true"
-alt="Decorative Banner">
+alt="">
  </div>
  <div>
    <main>
